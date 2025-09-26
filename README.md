@@ -36,7 +36,7 @@
 </head>
 <body>
 
-    <h2 class="animated">Salom, animatsiya!</h2>
+    <h2 class="animated">QO'TOQQA  QARASOSSANMI</h2>
 
 </body>
 </html>
